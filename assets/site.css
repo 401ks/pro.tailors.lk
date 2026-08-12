@@ -34,6 +34,13 @@ table.ledger td, table.ledger th { font-variant-numeric: tabular-nums; }
 .legal ul { list-style: disc; padding-left: 1.2em; margin-bottom: 16px; }
 .legal a { color: #ab3500; font-weight: 600; text-decoration: underline; }
 .prose { max-width: 48rem; }
+.popup-overlay { position: fixed; inset: 0; z-index: 60; display: flex; align-items: center; justify-content: center; padding: 16px; background: rgba(28,27,27,0.6); }
+.popup { width: 100%; max-width: 420px; }
+.popup-icon-wrap { width: 56px; height: 56px; display: inline-flex; align-items: center; justify-content: center; }
+.popup-icon-success { background: #25D366; color: #0a140c; }
+.popup-icon-error { background: #FF4136; color: #ffffff; }
+.popup-icon-info { background: #ff6b35; color: #ffffff; }
+.popup-close { cursor: pointer; background: transparent; border: none; padding: 0; color: inherit; }
 
 /* ============ FONT FAMILY ============ */
 .font-display { font-family: "Space Grotesk", sans-serif; }
