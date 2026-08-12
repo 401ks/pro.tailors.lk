@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /og-images/
+Allow: /
+Disallow: /app
+Disallow: /login
+Disallow: /ui/
+
+Sitemap: https://pro.tailors.lk/sitemap.xml

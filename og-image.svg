@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FFFDF7"/>
+  <circle cx="40" cy="40" r="2" fill="#E5E5E5"/>
+  <g fill="none" stroke="#E5E5E5" stroke-width="2">
+    <circle cx="120" cy="40" r="2"/><circle cx="200" cy="40" r="2"/><circle cx="120" cy="120" r="2"/><circle cx="200" cy="120" r="2"/>
+  </g>
+  <rect x="70" y="70" width="1060" height="490" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="6"/>
+  <rect x="86" y="86" width="1028" height="46" fill="#FF6B35" stroke="#1A1A1A" stroke-width="4"/>
+  <text x="600" y="120" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="30" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">T A I L O R S . L K   P R O</text>
+  <text x="600" y="320" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="78" fill="#1A1A1A" text-anchor="middle">Free tailor shop software</text>
+  <text x="600" y="390" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="58" fill="#1A1A1A" text-anchor="middle">built for Sri Lanka.</text>
+  <text x="600" y="455" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#4A4A4A" text-anchor="middle">Orders  ·  Measurements  ·  Receipts  ·  Tracking links</text>
+  <rect x="430" y="505" width="340" height="56" fill="#FF804B" stroke="#1A1A1A" stroke-width="4"/>
+  <text x="600" y="540" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="26" fill="#FFFFFF" text-anchor="middle">START FREE  ·  NO CARD</text>
+</svg>

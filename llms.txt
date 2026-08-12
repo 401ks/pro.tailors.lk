@@ -1,0 +1,59 @@
+# Tailors.lk Pro
+
+> Tailors.lk Pro is the all-in-one business OS for tailoring shops in Sri Lanka. Orders, customers, measurements, invoicing, shopfront branding, and customer tracking — built for how tailors actually run their business.
+
+We manage shops that don't happen, orders that slip, and measurements that get lost. Tailors.lk Pro replaces paper books with a simple dashboard: log orders, store measurements, generate invoices, track customers, and publish your own branded shop page.
+
+## What is Tailors.lk Pro?
+
+Tailors.lk Pro is a lightweight, mobile-friendly management tool for tailoring and alterations businesses in Sri Lanka. It centralises order management, measurement vaults, invoicing, and customer tracking in one place. It's designed to be simple enough to learn in minutes and affordable for solo tailors and small shops.
+
+## Key Features
+
+- [Order management](https://pro.tailors.lk/features/order-management/): Create orders, track status updates, and set due dates from one dashboard.
+- [Measurement vault](https://pro.tailors.lk/features/measurement-vault/): Store a full measurement profile per customer, re-use it across orders.
+- [Invoicing](https://pro.tailors.lk/features/invoicing/): Create and send receipts and invoices.
+- [Customer tracking](https://pro.tailors.lk/features/customer-tracking/): Follow up on ready orders and repeat customers.
+- [Shop branding](https://pro.tailors.lk/features/shop-branding/): Publish a public branded page for your shop.
+
+## Getting Started
+
+- [Sign up / early access](https://pro.tailors.lk/early-access/)
+- [How it works](https://pro.tailors.lk/how-it-works/)
+- [Features](https://pro.tailors.lk/features/)
+- [Pricing](https://pro.tailors.lk/pricing/)
+
+## Feedback and Support
+
+- [Help and support](https://pro.tailors.lk/help-and-support/)
+- [Contact](https://pro.tailors.lk/contact/)
+- [Roadmap](https://pro.tailors.lk/roadmap/)
+- [Early access](https://pro.tailors.lk/early-access/)
+
+## Comparisons
+
+- [Comparison hub](https://pro.tailors.lk/compare/)
+- [Tailors.lk Pro vs TailorOS](https://pro.tailors.lk/compare/us-vs-tailoros/)
+- [Tailors.lk Pro vs Atelierware](https://pro.tailors.lk/compare/us-vs-atelierware/)
+- [Tailors.lk Pro vs Buttonstripe](https://pro.tailors.lk/compare/us-vs-buttonstripe/)
+- [Tailors.lk Pro vs ShriStitch](https://pro.tailors.lk/compare/us-vs-shristitch/)
+- [Tailors.lk Pro vs Sunrise Tailoring](https://pro.tailors.lk/compare/us-vs-sunrise-tailoring/)
+- [Tailors.lk Pro vs HandySeam](https://pro.tailors.lk/compare/us-vs-handyseam/)
+- [Tailors.lk Pro vs Smart Tailor](https://pro.tailors.lk/compare/us-vs-smart-tailor/)
+- [Tailors.lk Pro vs FATbit Stitch](https://pro.tailors.lk/compare/us-vs-fatbit-stitch/)
+- [Tailors.lk Pro vs Perfect Tailor](https://pro.tailors.lk/compare/us-vs-perfect-tailor/)
+- [Tailors.lk Pro vs TailorSoft](https://pro.tailors.lk/compare/us-vs-tailorsoft/)
+- [Tailors.lk Pro vs DBest Tailoring](https://pro.tailors.lk/compare/us-vs-dbest-tailoring/)
+- [Tailors.lk Pro vs eXPerience 5](https://pro.tailors.lk/compare/us-vs-experience-5/)
+- [Tailors.lk Pro vs Tailornova](https://pro.tailors.lk/compare/us-vs-tailornova/)
+
+## Legal
+
+- [Privacy policy](https://pro.tailors.lk/privacy/)
+- [Terms of service](https://pro.tailors.lk/terms/)
+- [Data responsibility](https://pro.tailors.lk/data-responsibility/)
+
+## Optional
+
+- [Free tools](https://pro.tailors.lk/tools/)
+- [Free invoice generator](https://pro.tailors.lk/tools/invoice-generator/)
